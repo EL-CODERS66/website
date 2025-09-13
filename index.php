@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../assets/style/BASIC.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/Logo.png" type="image/x-icon">
+    <meta charset="UTF-8">
+    <title> Getyourchoice </title>
+    <link rel="stylesheet" href="assets/style/index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+
+
+
+    <nav>
+
+        <div>
+            <a href="#section3"> اكتشف منتجاتنا <img src="assets/icons/bag.png"> </a>
+        </div>
+
+        <img class="logo" src="assets/icons/Logo.png">
+
+    </nav>
+
+    <div class="main">
+        <img src="assets/icons/MBGR.png" class="vector">
+        <div>
+            <h1> الأناقة والخدمات فبلاصة وحدة </h1>
+            <h2> منتوجات أصلية، جودة عالية، وخدمات كتسهل عليك حياتك </h2>
+            <a href="#section3"> اكتشف منتجاتنا الان <img src="assets/icons/bag.png"> </a>
+        </div>
+    </div>
+
+    <div class="sec2">
+        <h2> مـن نـحـن ؟ </h2>
+        <h4> نحن جمعنا ليك كلشي فبلاصة وحدة - من العطور الراقية حتى الإكسسوارات والخدمات اليومية <br> هدفنا هو نوفر ليك الجودة والأناقة باش حياتك تكون أسهل </h4>
+        <p>
+            الجودة أولويتنا -<br>
+            منتوجات أصلية -<br>
+            خدمات كتسهل حياتك -<br>
+        </p>
+    </div>
+
+    <div class="sec3" id="section3">
+
+        <h2> غادي تلقى عندنا </h2>
+
+        <div class="grid">
+
+            <div class="primdiv">
+                <img src="assets/icons/perfum.png">
+                <div>
+                    <h3> عـطـور </h3>
+                    <hr>
+                    <h4> تشكيلات متنوعة من العطور الشرقية والعالمية بروائح كتدوم بزاف وكتعجب جميع الناس </h4>
+                </div>
+            </div>
+
+            <div class="primdiv">
+                <img src="assets/icons/MBGR.png">
+                <div>
+                    <h3> ساعات </h3>
+                    <hr>
+                    <h4> ساعات راقية للرجال والعيالات، كتجمع بين الأناقة والجودة. </h4>
+                </div>
+            </div>
+
+            <div class="primdiv">
+                <img src="assets/icons/phonecase.png">
+                <div>
+                    <h3> إكسسوارات الهواتف </h3>
+                    <hr>
+                    <h4> كوفرات، سماعات، شواحن، وإكسسوارات عصرية تحمي وتزيّن تليفونك. </h4>
+                </div>
+            </div>
+
+            <div class="primdiv">
+                <img src="assets/icons/glouce.png">
+                <div>
+                    <h3> مستحضرات التجميل والعناية </h3>
+                    <hr>
+                    <h4>
+                        ديودورانت - <br>
+                        آلات الحلاقة - <br>
+                        مناكير بألوان مختلفة - <br>
+                        منتجات تجميل وعناية - <br>
+                    </h4>
+                </div>
+            </div>
+
+            <div class="primdiv">
+                <img src="assets/icons/ring.png">
+                <div>
+                    <h3> مجوهرات </h3>
+                    <hr>
+                    <h4> مجوهرات بجميع الأشكال، كلاسيك وعصرية، باش تضيف لمسة ديال الفخامة والجاذبية </h4>
+                </div>
+            </div>
+
+            <div class="primdiv">
+                <div>
+                    <h3> أداء الفواتير </h3>
+                    <hr>
+                    <h4> ما تبقاش مضطر تدور بزاف، عندنا خدمة أداء الفواتير ديال الماء، الضوء، الإنترنت والغاز بكل سهولة وأمان </h4>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <div class="contact">
+        <h2> تواصل معنا </h2>
+
+        <a> <img src="assets/icons/phone.png"> +212 662-609732 </a>
+        <a> <img src="assets/icons/phone.png"> +212 520-874571 </a>
+        <a> <img src="assets/icons/email.png"> Ayoubkhalif73@gmail.com </a>
+
+        <div>
+            <a href="https://www.facebook.com/share/1R1ueQe4T1/?mibextid=wwXIfr"> <img src="assets/icons/facebook.png"> </a>
+            <a href="https://www.instagram.com/yourc.hoice34/?igsh=MXVxZG14cjZmYXNsOA%3D%3D&utm_source=qr#"> <img src="assets/icons/instagram.png"> </a>
+            <a href="https://www.tiktok.com/@your.choice4248?_t=ZS-8zXWBu7lyI3&_r=1"> <img src="assets/icons/tiktok.png"> </a>
+            <a href="https://www.google.com/maps?q=NR+08,+%D8%AA%D8%B3%D9%87%D9%8A%D9%84%D8%A7%D8%AA+%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1+%D9%85%D8%B3%D8%AC%D8%AF+%D8%A7%D9%84%D9%86%D9%88%D8%B1,+Lamkanssa+05+bloc+C+rue+26,+Casablanca+20480&ftid=0xda6338995e6b2f1:0xa5ad828f80fae488&entry=gps&lucs=,94284472,94224825,94227247,94227248,94231188,47071704,94259572,47069508,94218641,94282134,94203019,47084304&g_ep=CAISEjI1LjM1LjAuNzk5MDg4MzU1MBgAIIgnKmwsOTQyODQ0NzIsOTQyMjQ4MjUsOTQyMjcyNDcsOTQyMjcyNDgsOTQyMzExODgsNDcwNzE3MDQsOTQyNTk1NzIsNDcwNjk1MDgsOTQyMTg2NDEsOTQyODIxMzQsOTQyMDMwMTksNDcwODQzMDRCAk1B&skid=0956f9ca-712f-48f5-8447-000e272041eb&g_st=ipc">
+                <img src="assets/icons/gps.png">
+            </a>
+        </div>
+
+    </div>
+
+    <footer>
+
+    </footer>
+
+</body>
+
+</html>
